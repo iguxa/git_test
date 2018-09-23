@@ -1,0 +1,35 @@
+* [33mcommit b9aadfba4aacfaf160e35c4b99198f22b92569ac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: iguxa <tsybykov@bk.ru>
+[31m|[m Date:   Mon Sep 24 00:35:38 2018 +0300
+[31m|[m 
+[31m|[m     master
+[31m|[m   
+[31m|[m * [33mcommit ac948c5480eeddc3575a2121445da45f90f5e498[m[33m ([m[1;32mnew_style[m[33m)[m
+[31m|[m[31m/[m  Author: iguxa <tsybykov@bk.ru>
+[31m|[m   Date:   Mon Sep 24 00:34:08 2018 +0300
+[31m|[m   
+[31m|[m       new_branch
+[31m|[m 
+* [33mcommit 7c2bc524c1c4b1deb50eb639b5703adc56773b0b[m
+[32m|[m Author: iguxa <tsybykov@bk.ru>
+[32m|[m Date:   Mon Sep 24 00:30:42 2018 +0300
+[32m|[m 
+[32m|[m     add_css
+[32m|[m 
+* [33mcommit 71b8bb84698dab2878dae36ad1ed72677ac214c2[m[33m ([m[1;31morigin/master[m[33m)[m
+[32m|[m Author: iguxa <tsybykov@bk.ru>
+[32m|[m Date:   Mon Sep 24 00:20:01 2018 +0300
+[32m|[m 
+[32m|[m     'test3'
+[32m|[m 
+* [33mcommit bd2b6ff268833bc2feb333286b52876006ac1936[m
+[32m|[m Author: iguxa <tsybykov@bk.ru>
+[32m|[m Date:   Mon Sep 24 00:19:31 2018 +0300
+[32m|[m 
+[32m|[m     'test2'
+[32m|[m 
+* [33mcommit 56bea1f0d462323267dadde45dcae6789bf4ed7a[m
+  Author: iguxa <tsybykov@bk.ru>
+  Date:   Mon Sep 24 00:17:06 2018 +0300
+  
+      'test'
