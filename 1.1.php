@@ -24,6 +24,7 @@ echo distributeSmoothies(7,3);
 
 <p>new change</p>
 <p>new change2</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut doloribus fugiat in incidunt neque, quasi quod quos, repudiandae temporibus, ut vel velit voluptatem! Accusamus culpa dolorem expedita magnam maxime!</p>
 
 </body>
 </html>
