@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b10e54c1-17af-49ff-a5dd-322a6a40fe83" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="b10e54c1-17af-49ff-a5dd-322a6a40fe83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
+>>>>>>> new_style
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,23 +24,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="css" value="1" />
           <entry key="php" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="1" />
           <entry key="PHP" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="css" value="14" />
+=======
+          <entry key="css" value="19" />
+>>>>>>> new_style
           <entry key="php" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="CSS" value="14" />
+=======
+          <entry key="CSS" value="19" />
+>>>>>>> new_style
           <entry key="PHP" value="38" />
         </counts>
       </usages-collector>
@@ -62,12 +78,23 @@
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
+<<<<<<< HEAD
               <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+=======
+              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+>>>>>>> new_style
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -148,12 +175,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537736847766</updated>
-      <workItem from="1537736849277" duration="1248000" />
+      <workItem from="1537736849277" duration="1535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1549000" />
+=======
+    <option name="totallyTimeSpent" value="1535000" />
+>>>>>>> new_style
   </component>
   <component name="ToolWindowManager">
     <frame x="513" y="226" width="1377" height="799" extended-state="0" />
@@ -197,7 +228,11 @@
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
+<<<<<<< HEAD
           <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+=======
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+>>>>>>> new_style
         </state>
       </provider>
     </entry>
