@@ -5,11 +5,13 @@
  * Date: 2018-08-28
  * Time: 14:15
  */
-function distributeSmoothies(int $m ,int $n):int {
-    $result = $m/$n;
+function distributeSmoothies(int $m, int $n): int
+{
+    $result = $m / $n;
     return $result;
 }
-echo distributeSmoothies(7,3);
+
+echo distributeSmoothies(7, 3);
 ?>
 <!doctype html>
 <html lang="en">
@@ -24,7 +26,9 @@ echo distributeSmoothies(7,3);
 
 <p>new change</p>
 <p>new change2</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut doloribus fugiat in incidunt neque, quasi quod quos, repudiandae temporibus, ut vel velit voluptatem! Accusamus culpa dolorem expedita magnam maxime!</p>
-
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut doloribus fugiat in incidunt neque, quasi
+    quod quos, repudiandae temporibus, ut vel velit voluptatem! Accusamus culpa dolorem expedita magnam maxime!</p>
+<p>new change3</p>
+<p>new change4</p>
 </body>
 </html>
