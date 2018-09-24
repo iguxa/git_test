@@ -32,8 +32,8 @@ echo distributeSmoothies(7, 3);
 <p>new change4</p>
 <p>new change4</p>
 <script>
-    function sum(a,b){
-        return a+b;
+    function minus(a,b){
+        return a-b;
     }
     alert(sum(1,10));
 </script>
