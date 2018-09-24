@@ -1,0 +1,54 @@
+[33mcommit cd207468957a50b61544541730adb3978e15150c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: tsybykov <I.tsybykov@buro247.ru>
+Date:   Mon Sep 24 10:26:49 2018 +0300
+
+    learn git
+
+[33mcommit b9bb5d3346324a9ba598a2964291c13bfb88c14f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 380d298 ac948c5
+Author: iguxa <tsybykov@bk.ru>
+Date:   Mon Sep 24 00:42:35 2018 +0300
+
+    test_merge1
+
+[33mcommit 380d29889e909a595a1d85556fb7c61bc68bd58f[m
+Author: iguxa <tsybykov@bk.ru>
+Date:   Mon Sep 24 00:41:19 2018 +0300
+
+    test_merge
+
+[33mcommit b9aadfba4aacfaf160e35c4b99198f22b92569ac[m
+Author: iguxa <tsybykov@bk.ru>
+Date:   Mon Sep 24 00:35:38 2018 +0300
+
+    master
+
+[33mcommit ac948c5480eeddc3575a2121445da45f90f5e498[m
+Author: iguxa <tsybykov@bk.ru>
+Date:   Mon Sep 24 00:34:08 2018 +0300
+
+    new_branch
+
+[33mcommit 7c2bc524c1c4b1deb50eb639b5703adc56773b0b[m
+Author: iguxa <tsybykov@bk.ru>
+Date:   Mon Sep 24 00:30:42 2018 +0300
+
+    add_css
+
+[33mcommit 71b8bb84698dab2878dae36ad1ed72677ac214c2[m
+Author: iguxa <tsybykov@bk.ru>
+Date:   Mon Sep 24 00:20:01 2018 +0300
+
+    'test3'
+
+[33mcommit bd2b6ff268833bc2feb333286b52876006ac1936[m
+Author: iguxa <tsybykov@bk.ru>
+Date:   Mon Sep 24 00:19:31 2018 +0300
+
+    'test2'
+
+[33mcommit 56bea1f0d462323267dadde45dcae6789bf4ed7a[m
+Author: iguxa <tsybykov@bk.ru>
+Date:   Mon Sep 24 00:17:06 2018 +0300
+
+    'test'

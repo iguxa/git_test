@@ -1,0 +1,2 @@
+2018/09/24 10:33:00 [error] 7753#7753: *1 directory index of "/var/www/git_test/" is forbidden, client: 127.0.0.1, server: git.ru, request: "GET / HTTP/1.1", host: "git.ru"
+2018/09/24 10:33:00 [error] 7753#7753: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 127.0.0.1, server: git.ru, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.2-fpm.sock:", host: "git.ru", referrer: "http://git.ru/"
